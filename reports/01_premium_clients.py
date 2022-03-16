@@ -1,0 +1,2 @@
+
+print("./out_data")
