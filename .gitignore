@@ -1,3 +1,10 @@
 # folders for in and out data
 /out_data
 /data
+
+/install/
+/libs/
+
+# other ignore files
+/notes/notes.txt
+/logs
