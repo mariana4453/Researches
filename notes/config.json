@@ -1,0 +1,17 @@
+{
+  "mysql_local": {
+    "user": "research_projects",
+    "password": "gAAAAABiMdoqQIBB7sbeJFizpoTKWaLHfgDzGK-FM7EDbHUzagB99rvEsj3TxikmkJmudoNMAycS_G7QqlsIDBLlj2Q3dieLnw==",
+    "host": "localhost",
+    "database": "researches"
+  },
+
+  "secret_key": "80sGIxjuK3Rj69VVQu895V4hlvJQ55exY8KolVNu49s=",
+
+   "log": {
+     "information": "logs/information.log",
+     "warning": "logs/warning.log",
+     "error": "logs/error.log",
+     "all": "logs/all.log"
+   }
+}
