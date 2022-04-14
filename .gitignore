@@ -1,6 +1,6 @@
-# folders for in and out data
+# folders for in and out data_import
 /out_data
-/data
+/data_import
 
 /install/
 /libs/
